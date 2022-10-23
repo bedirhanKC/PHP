@@ -30,7 +30,7 @@
 	$kelime = "bedirhan";
 
 	echo "<br>";
-	echo "kelimenin veri tipi : ".gettype($kelime); //max deger
+	echo "kelimenin veri tipi : ".gettype($kelime); //değisken türü
 
 
 
